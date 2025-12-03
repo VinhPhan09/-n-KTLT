@@ -1,0 +1,15 @@
+﻿  Dead.cpp
+  Draw.cpp
+D:\GGWP\GGWP\Draw.cpp(4,14): warning C4309: 'initializing': truncation of constant value
+D:\GGWP\GGWP\Draw.cpp(5,14): warning C4309: 'initializing': truncation of constant value
+D:\GGWP\GGWP\Draw.cpp(6,14): warning C4309: 'initializing': truncation of constant value
+  GGWP.cpp
+  Prepare.cpp
+D:\GGWP\GGWP\Prepare.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProcessGame.cpp
+  System.cpp
+D:\GGWP\GGWP\System.cpp(50,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\GGWP\GGWP\System.cpp(50,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+ProcessGame.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "void __cdecl Eat(void)" (?Eat@@YAXXZ)
+D:\GGWP\x64\Debug\GGWP.exe : fatal error LNK1120: 1 unresolved externals

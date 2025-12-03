@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GGWP", "GGWP\GGWP.vcxproj", "{6EF4DFD5-1978-443A-8898-5F1B081CAC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Debug|x64.ActiveCfg = Debug|x64
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Debug|x64.Build.0 = Debug|x64
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Debug|x86.Build.0 = Debug|Win32
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Release|x64.ActiveCfg = Release|x64
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Release|x64.Build.0 = Release|x64
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Release|x86.ActiveCfg = Release|Win32
+		{6EF4DFD5-1978-443A-8898-5F1B081CAC88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67C292D-ECB6-4C90-AE0A-B8946C8E260D}
+	EndGlobalSection
+EndGlobal
